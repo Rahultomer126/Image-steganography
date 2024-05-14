@@ -8,14 +8,9 @@ Image Steganography is widely used for hiding a message image into a cover image
 ![here](https://github.com/lukefire5156/Steganography-App/blob/master/SS/flowchart.png)
 
 
+<img width="1223" alt="Screenshot 2024-05-14 at 12 10 29 PM" src="https://github.com/Rahultomer126/Image-steganography/assets/76908474/b7967477-5a42-4f11-95c2-cc0fbb52cf07">
 
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-152706.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-154140.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153327.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-154059.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-154046.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153447.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153424.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153409.png" width="250" height="400">
+<img width="1223" alt="Screenshot 2024-05-14 at 12 10 45 PM" src="https://github.com/Rahultomer126/Image-steganography/assets/76908474/03c35f8a-fe8f-484c-9191-aa9a8ca7351b">
+
 
 ## THANK YOU!!
